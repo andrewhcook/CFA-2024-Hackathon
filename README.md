@@ -10,7 +10,7 @@
 ##  Raspberry Pi Initialization:
 Follow the steps at: https://www.raspberrypi.com/documentation/computers/getting-started.html
 
-I used a RPi Zero 2 W but any model with standard 40 GPIO pins will work with the HAT.
+I used a RPi Zero 2 W but any model with a standard 40-pin GPIO header will work with the HAT.
 
 ## Codec Zero Attachment and Configuration:
 Follow the steps for the Codec Zero at: https://www.raspberrypi.com/documentation/accessories/audio.html
